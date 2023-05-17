@@ -259,7 +259,7 @@ footer {
     text-align: center;
 }
 
-@media (max-width:1125px){
+@media (max-width:70.4em){
     .nl {
         display: flex;
         flex-direction:  row;
